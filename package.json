@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/goksagun/node-function-hello-world/issues"
   },
-  "homepage": "https://github.com/goksagun/node-function-hello-world#readme"
+  "homepage": "https://github.com/goksagun/node-function-hello-world#readme",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^2.1.1"
+  }
 }
