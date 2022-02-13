@@ -1,0 +1,26 @@
+{
+  "name": "function-hello-world",
+  "version": "1.0.0",
+  "description": "Simple hello world function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/goksagun/node-function-hello-world.git"
+  },
+  "keywords": [
+    "cloud",
+    "function",
+    "hello",
+    "world",
+    "node"
+  ],
+  "author": "brkblt@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goksagun/node-function-hello-world/issues"
+  },
+  "homepage": "https://github.com/goksagun/node-function-hello-world#readme"
+}
